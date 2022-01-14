@@ -1,0 +1,42 @@
+[
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quien pinto la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://cdnnmundo1.img.sputniknews.com/img/105458/34/1054583496_0:0:1281:721_600x0_80_0_0_b03c3f70ddb242dad7d4bc98548f13b1.jpg",
+        "objectFit": "cover"   
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quien escribio el coronel no tiene quien le escriba?",
+        "respuesta": "Gabriel Garcia Marquez",
+        "incorrecta1": "Edgar Allan Poe",
+        "incorrecta2": "Jorge Luis Borges",
+        "incorrecta3": "Julio Cortazar",
+        "imagen": "https://t2.uc.ltmcdn.com/images/6/3/6/como_escribir_una_carta_formal_16636_600_square.jpg",
+        "objectFit": "cover"   
+    },
+    {
+        "categoria": "Arte y Literatura",
+        "pregunta": "¿Quien pinto la persistencia de la memoria?",
+        "respuesta": "Salvador Dalí",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Francisco de Goya",
+        "imagen": "https://m.media-amazon.com/images/I/610eMxkDjmL._AC_SX450_.jpg",
+        "objectFit": "cover"   
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    }
+]
